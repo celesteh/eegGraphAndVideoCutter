@@ -1,3 +1,5 @@
+moved to codeberg: https://codeberg.org/celesteh/eegGraphAndVideoCutter
+
 # biometricvidplayer
 Bitalino Controlled video player for performance
 
